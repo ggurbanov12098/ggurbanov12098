@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Startup<br>⚡ I’m currently learning Cyber/Network<br>🤝 Welcome to collaborate on projects
+🔭 I’m currently working on Startup<br>⚡ I’m currently learning Cyber/Network<br>🤝 Open to work on new projects
 
 
 ## 🌐 Socials:
