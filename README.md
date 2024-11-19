@@ -1,12 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">  
 
-# About:
-🔭 CyberSecurity, Network, DataScience, MachineLearning  
-👨🏻‍💻 Network Security Engineer @ SmartIT  
-🎓MSCSDA @ ADA&GWU  
-🎓BSCS @ ADA  
 
-[![](https://visitcount.itsvg.in/api?id=ggurbanov12098&icon=0&color=0)](https://visitcount.itsvg.in)
+# ┌──(ggurbanov㉿Destroy)-[/]  
+# └─# whoami
+
+📍 **Baku, Azerbaijan**  
+🔭 **Network | Cybersecurity | Data Science | Machine Learning**  
+💼 **Network Security Engineer @ SmartIT**  
+🎓 **MSCSDA @ ADA & GWU**  
+🎓 **BSCS @ ADA**  
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=ggurbanov12098&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- ## 🌐 Socials:
@@ -18,20 +22,30 @@
 <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
 
 ## 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggurbanov12098&theme=github_dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggurbanov12098&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggurbanov12098&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggurbanov12098&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggurbanov12098&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggurbanov12098&theme=github_dark&utcOffset=4)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggurbanov12098&theme=github_dark&utcOffset=4) -->
+
+<!-- Summary Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggurbanov12098&theme=github_dark" width="80%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggurbanov12098&theme=github_dark" width="40%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggurbanov12098&theme=github_dark" width="40%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggurbanov12098&theme=github_dark" width="40%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggurbanov12098&theme=github_dark&utcOffset=4" width="40%">
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=455%2C030101%2C1E5700&sideNums=84FF0B&border=38EB00&fire=FF3B0B&currStreakNum=72EB18&ring=46EB16&currStreakLabel=5EEB14)](https://git.io/streak-stats)
+
+
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&mode=weekly&fire=EB3708&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
-<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=455%2C030101%2C1E5700&sideNums=84FF0B&border=38EB00&fire=FF3B0B&currStreakNum=72EB18&ring=46EB16&currStreakLabel=5EEB14)](https://git.io/streak-stats)
-
-</div>
+<!-- ORIG -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=455%2C030101%2C1E5700&sideNums=84FF0B&border=38EB00&fire=FF3B0B&currStreakNum=72EB18&ring=46EB16&currStreakLabel=5EEB14)](https://git.io/streak-stats) -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ggurbanov12098&theme=dark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggurbanov12098&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
