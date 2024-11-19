@@ -4,7 +4,7 @@
 📍 **Baku, Azerbaijan**  
 🔭 **Network | Cybersecurity | Data Science | Machine Learning**  
 💼 **Network Security Engineer @ SmartIT**  
-🎓 **MSCSDA @ ADA & GWU**  
+🎓 **MSCSDA @ GWU**  
 🎓 **BSCS @ ADA**  
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=ggurbanov12098&icon=0&color=0)](https://visitcount.itsvg.in)
