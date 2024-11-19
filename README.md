@@ -33,7 +33,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggurbanov12098&theme=github_dark&utcOffset=4" width="40%"> -->
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=455%2C030101%2C1E5700&sideNums=84FF0B&border=38EB00&fire=FF3B0B&currStreakNum=72EB18&ring=46EB16&currStreakLabel=5EEB14)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=455%2C030101%2C1E5700&sideNums=84FF0B&border=38EB00&fire=FF3B0B&currStreakNum=72EB18&ring=46EB16&currStreakLabel=5EEB14)](https://git.io/streak-stats) 
 
 
 
