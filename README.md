@@ -19,9 +19,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&fire=EB3708&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=EOF&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAAAA">
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ggurbanov12098?theme=nord&font=IBM%20Plex%20Sans&ext=heatmap) -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAAAA">
 
 
 
