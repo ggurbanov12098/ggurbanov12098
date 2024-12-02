@@ -17,7 +17,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggurbanov12098&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggurbanov12098&theme=github_dark&utcOffset=4)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&fire=EB3708&date_format=j%20M%5B%20Y%5D)  
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&fire=EB3708&date_format=j%20M%5B%20Y%5D)  -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggurbanov12098&theme=dark&fire=EB3708)  
 
 <!-- <a href="https://github.com/ggurbanov12098/ggurbanov12098/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ggurbanov12098/ggurbanov12098" />
@@ -25,6 +27,7 @@
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ggurbanov12098?theme=nord&font=IBM%20Plex%20Sans&ext=heatmap) -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"> -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAAAA">
 
 
