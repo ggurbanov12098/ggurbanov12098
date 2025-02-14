@@ -4,8 +4,10 @@
 💼 **Network Security Engineer @ SmartIT**  
 🎓 **MSCSDA @ GWU**  
 🎓 **BSCS @ ADA**  
+<!-- [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/day-week-month-total-count.svg)](https://u8views.com/github/ggurbanov12098) -->
+[![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/total-count.svg)](https://u8views.com/github/ggurbanov12098)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ggurbanov12098&icon=0&color=12)](https://visitcount.itsvg.in)
+<!-- [![Profile Views](https://visitcount.itsvg.in/api?id=ggurbanov12098&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabil-gurbanov-b183321a3/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ggurbanov_/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ggurbanov)   
