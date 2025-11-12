@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=%E2%94%8C%E2%94%80%E2%94%80(ggurbanov%E3%89%BFDestroy)-%5B%2F%5D;%E2%94%94%E2%94%80%23+whoami)](https://git.io/typing-svg)  
-📍 **Baku, Azerbaijan**  
+📍 **Washington DC, USA**  
 🔭 **Network | Cybersecurity | Data Science | Machine Learning**  
-💼 **Network Security Engineer @ SmartIT**  
 🎓 **MSCSDA @ GWU**  
 🎓 **BSCS @ ADA**  
 <!-- [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/day-week-month-total-count.svg)](https://u8views.com/github/ggurbanov12098) -->
