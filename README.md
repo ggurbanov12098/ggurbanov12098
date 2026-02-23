@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=┌──(ggurbanov㉿Dstry)-%5B%2F%5D;└─%23+whoami)](https://git.io/typing-svg)  
 
 📍 **Baku, Azerbaijan**  
-🔭 **Network | Cybersecurity | Data Science | Machine Learning**  
+🔭 **Computer Science**  
 🎓 **MSCS @ GWU**  
-🎓 **MSDA @ ADA**    
+🎓 **MSDA @ ADA**  
 🎓 **BSCS @ ADA**  
 <!-- [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/day-week-month-total-count.svg)](https://u8views.com/github/ggurbanov12098) -->
 [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/total-count.svg)](https://u8views.com/github/ggurbanov12098)
