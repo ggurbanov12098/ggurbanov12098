@@ -1,15 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=%E2%94%8C%E2%94%80%E2%94%80(ggurbanov%E3%89%BFDestroy)-%5B%2F%5D;%E2%94%94%E2%94%80%23+whoami)](https://git.io/typing-svg)  
-📍 **Washington DC, USA**  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=┌──(ggurbanov㉿Dstry)-%5B%2F%5D;└─%23+whoami)](https://git.io/typing-svg)  
+
+📍 **Baku, Azerbaijan**  
 🔭 **Network | Cybersecurity | Data Science | Machine Learning**  
-🎓 **MSCSDA @ GWU**  
+🎓 **MSCS @ GWU**  
+🎓 **MSDA @ ADA**    
 🎓 **BSCS @ ADA**  
 <!-- [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/day-week-month-total-count.svg)](https://u8views.com/github/ggurbanov12098) -->
 [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/total-count.svg)](https://u8views.com/github/ggurbanov12098)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ggurbanov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabil-gurbanov-b183321a3/)
+
 
 <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=ggurbanov12098&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabil-gurbanov-b183321a3/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ggurbanov_/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ggurbanov)   
+<!-- ## 🌐 Socials: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabil-gurbanov-b183321a3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ggurbanov)    -->
 
 ## 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggurbanov12098&theme=github_dark)
