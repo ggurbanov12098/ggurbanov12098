@@ -6,9 +6,8 @@
 🎓 **MSDA @ ADA**  
 🎓 **BSCS @ ADA**  
 <!-- [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/day-week-month-total-count.svg)](https://u8views.com/github/ggurbanov12098) -->
-[![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/total-count.svg)](https://u8views.com/github/ggurbanov12098)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ggurbanov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabil-gurbanov-b183321a3/)
+<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ggurbanov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabil-gurbanov-b183321a3/) -->
 
 
 <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=ggurbanov12098&icon=0&color=12)](https://visitcount.itsvg.in) -->
@@ -16,7 +15,7 @@
 <!-- ## 🌐 Socials: -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabil-gurbanov-b183321a3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ggurbanov)    -->
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats: [![Gabil Gurbanov profile views](https://u8views.com/api/v1/github/profiles/57041974/views/total-count.svg)](https://u8views.com/github/ggurbanov12098)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggurbanov12098&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggurbanov12098&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggurbanov12098&theme=github_dark)
