@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=┌──(ggurbanov㉿Dstry)-%5B%2F%5D;└─%23+whoami)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1&color=FFFFFF&multiline=true&width=485&height=80&lines=┌──(ggurbanv㉿Dstry)-%5B%2F%5D;└─%23+whoami)](https://git.io/typing-svg)  
 
 📍 **Baku, Azerbaijan**  
 🔭 **Computer Science**  
@@ -33,7 +33,7 @@
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ggurbanov12098?theme=nord&font=IBM%20Plex%20Sans&ext=heatmap) -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAAAA">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&textBg=false&section=footer&reversal=true&animation=twinkling&fontColor=AAAAAA"> -->
 
 
 
